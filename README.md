@@ -1,7 +1,10 @@
 # Core Buttons 
 A flutter widget for the core button
 
-The Core Buttons package lets you add buttons to your Flutter app.
+## Supported platforms
+
+- Flutter Android
+- Flutter iOS
 
 ## Installation 
 
@@ -15,7 +18,7 @@ dependencies:
 import 'package:pm_core_button/pm_core_button.dart';
 ```
 
-## usage
+## Features
 There are several properties that you can modify:
 
  - height
@@ -32,6 +35,8 @@ There are several properties that you can modify:
 <table>
 <tr>
 <td>
+
+## Usage
 
 ```dart
 class MyApp extends StatelessWidget {
