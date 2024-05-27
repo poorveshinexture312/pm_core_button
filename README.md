@@ -93,7 +93,7 @@ class MyApp extends StatelessWidget {
 
 </td>
 <td>
-![Preview](CoreButtons.png)
+<img  src="CoreButtons.png"  alt="">
 </td>
 </tr>
 </table>
