@@ -12,10 +12,10 @@ dependencies:
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
-import 'package:pm_core_button/pm_inx.dart';
+import 'package:pm_core_button/pm_core_button.dart';
 ```
 
-## Example
+## usage
 There are several properties that you can modify:
 
  - height
